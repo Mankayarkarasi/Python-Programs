@@ -1,1 +1,12 @@
 
+The attached file contains T-20 cricket match details and answer the following questions. You need to process the file and answer the questions. All the T-20 match details will be in similar format
+
+i) Which Team Won the Match
+
+ii) Which Batsmen Scored Highest Runs
+
+iii) Which Bowler took maximum Wickets
+
+iv) Who Hit Maximum 6’s
+
+v) Who hit maximum 4's
